@@ -13,7 +13,7 @@ _Cross-browser compatibility
 _Front-end testing
 
 - Back-end Development
-_Server-side programming
+ - Server-side programming
 _API development
 _Database design and integration
 _Back-end testing
