@@ -8,13 +8,13 @@ Project Objectives
 
 Work Breakdown Structure
 - Front-end Development
-_UI design
-_Cross-browser compatibility
-_Front-end testing
+_UI design_
+_Cross-browser compatibility_
+_Front-end testing_
 
 - Back-end Development
- - Server-side programming
-_API development
-_Database design and integration
-_Back-end testing
+_Server-side programming_
+_API development_
+_Database design and integration_
+_Back-end testing_
 - Hosting
