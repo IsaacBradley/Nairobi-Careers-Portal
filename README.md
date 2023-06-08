@@ -1,5 +1,5 @@
-# Nairobi-Careers-Portal
-A website for application of jobs, internships and attachments in the Nairobi City County Government.
+![Screenshot (171)](https://github.com/IsaacBradley/Nairobi-Careers-Portal/assets/86302851/3d1d6611-2ed0-4a5b-9280-0ade44daa3ef)
+
 
 # Nairobi-Careers-Portal
 The Nairobi Careers Portal is a Website that provides a platform for individuals to search and apply for jobs, internships and attachments in the Nairobi City County Government.
